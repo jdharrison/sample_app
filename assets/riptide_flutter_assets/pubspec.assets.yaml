@@ -1,0 +1,12 @@
+# Add these under flutter:
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/riptide/brand/
+    - assets/riptide/icons/
+    - assets/riptide/images/
+    - assets/riptide/patterns/
+
+# Recommended package for SVG rendering:
+# dependencies:
+#   flutter_svg: ^latest

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140">
+  <g transform="translate(0,6) scale(.98)">
+  <path d="M12 78C30 37 64 18 112 24C86 29 66 42 50 62C69 50 88 47 108 52C85 55 67 66 55 84C76 69 94 69 116 78C94 80 76 90 64 105C47 103 30 94 12 78Z" fill="#22B8F0"/>
+  <path d="M47 72C57 55 77 47 96 52C82 55 72 62 67 72C79 66 91 66 103 73C91 73 81 78 74 87C66 87 57 82 47 72Z" fill="#082B49"/>
+  <circle cx="83" cy="65" r="3.2" fill="#FFFFFF"/>
+</g>
+  <text x="150" y="62" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="7" fill="#082B49">RIPTIDE</text>
+  <text x="154" y="91" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" letter-spacing="6" fill="#22B8F0">EXOTIC FISH</text>
+  <line x1="154" y1="108" x2="418" y2="108" stroke="#082B49" stroke-width="2"/>
+</svg>
